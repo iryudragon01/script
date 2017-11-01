@@ -1,3 +1,3 @@
 <script>
-alert("test github");
+  document.write("Hello World!");
 </script>
